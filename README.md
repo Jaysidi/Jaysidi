@@ -1,7 +1,15 @@
 ## Hi there 👋
+🚀 **Data Analyst | Python Developer**
+🔍 Passionate about data & web scraping
+☕ Specialty coffee enthusiast
+📊 Exploring ML & automation
+
 - 🔭 I’m currently working on my portfolio as a Data Analyst
 - 🌱 I’m currently learning what comes to me related to the data field
-- 💬 Ask me about for any possible collaboration
+- 💬 Ask me about any possible collaboration
+
+
+
 
 <!--
 **Jaysidi/Jaysidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

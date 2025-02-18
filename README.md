@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on my portfolio as a Data Analyst
+- 🌱 I’m currently learning what comes to me related to the data field
+- 💬 Ask me about for any possible collaboration
 
 <!--
 **Jaysidi/Jaysidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 ## Hi there 👋
-🚀 **Data Analyst | Python Developer**
-🔍 Passionate about data & web scraping
-☕ Specialty coffee enthusiast
-📊 Exploring ML & automation
+🚀 **Data Analyst | Python Developer** 
+🔍 Passionate about data & web scraping 
+☕ Specialty coffee enthusiast 
+📊 Exploring ML & automation 
 
 - 🔭 I’m currently working on my portfolio as a Data Analyst
 - 🌱 I’m currently learning what comes to me related to the data field

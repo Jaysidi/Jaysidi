@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning what comes to me related to the data field
 - 💬 Ask me about any possible collaboration
 
-
+My portfolio ➡️ https://jaysidi.github.io/portfolio/
 
 
 <!--
